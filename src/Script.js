@@ -54,4 +54,20 @@
 
 
 
+// write a function tellMultiple345, that takes one argument, which is an integer. IF that argument is a multiple of 3, then returns a STRING "argument is a multiple of 3", ELSE IF argument is a multiple of 3, then returns "argument is a multiple of 4", ELSE IF argument is a multiple of 5, then returns "argument is a multiple of 5", ELSE returns "not a multiple of 3, 4 or 5". Assume that the test cases will be less than 11.
+
+
+
+
+// write a function simpleFizzBuzz, that takes one argument, which is an integer. If that argument is a multiple of 3, then returns a STRING "fizz". If the argument is a multiple of 5, then returns a STRING "buzz". If the argument is not a multiple of 3 or 5, return "nothing". Assume that the argument won't be a multiple of both 3 and 5.
+
+
+
+
+// write a function nearlyFizzBuzz, that takes one argument, which is an integer. If that argument is a multiple of 3, then returns a STRING "fizz". If the argument is a multiple of 5, then returns a STRING "buzz". If that argument is a multiple of both 3 and 5 (e.g. 15), return "fizzbuzz". If the argument is not a multiple of 3 or 5, return "nothing".
+
+
+
+
+
 //
